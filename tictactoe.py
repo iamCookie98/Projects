@@ -1,4 +1,4 @@
-from IPython.display import clear_output 
+from IPython.display import clear_output
 import random
 
 def display_board(board):
