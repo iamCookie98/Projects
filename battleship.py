@@ -1,4 +1,4 @@
-def print_board(board): 
+def print_board(board):
     for row in board:
         print (" ".join(row))
 def random_row(board):
